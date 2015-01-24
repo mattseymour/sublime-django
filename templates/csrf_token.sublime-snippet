@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% csrf_token %}
+]]></content>
+    <tabTrigger>csrf</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template csrf token</description>
+</snippet>
