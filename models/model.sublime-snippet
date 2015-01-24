@@ -1,0 +1,13 @@
+<snippet>
+    <content>
+    <![CDATA[
+class ${1:Model}(models.Model):
+    """
+    Description: ${2:Model Description}
+    """
+    pass
+]]>
+	</content>
+    <tabTrigger>model</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
