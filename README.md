@@ -9,3 +9,4 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 #### Templates
 * block - block template syntax
 * extends - extends template syntax
+* autoescape - auto escape html template syntax

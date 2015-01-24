@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% autoescape ${1:on/off} %}
+    ${2:$SELECTION}
+{% endautoescape %}
+]]></content>
+    <tabTrigger>autoescape</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template autoescape</description>
+</snippet>
