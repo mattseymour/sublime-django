@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% cycle ${1:cycle1},${1:cycle2} %}
+]]></content>
+    <tabTrigger>cycle</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template cycle options</description>
+</snippet>
