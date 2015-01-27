@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<pre> {% filter force_escape %} {% debug %} {% endfilter %}</pre>
+]]></content>
+    <tabTrigger>debug</tabTrigger>
+    <scope>text.html</scope>
+</snippet>
+
+
