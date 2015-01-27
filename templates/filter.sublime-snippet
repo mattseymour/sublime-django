@@ -1,0 +1,13 @@
+
+
+
+<snippet>
+    <content><![CDATA[
+{% filter "${1:filter}"|${2:optional_filter} %}
+    ${2:$SELECTION}
+{% endfilter %}
+]]></content>
+    <tabTrigger>filter</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template filter</description>
+</snippet>
