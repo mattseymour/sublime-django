@@ -7,10 +7,14 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `model` - basic django model
 
 #### Templates
-* `block` - block template syntax
-* `extends` - extends template syntax
 * `autoescape` - auto escape html template syntax
-* `csrf` - CSRF token syntax
+* `block` - block template syntax
+* `comment` - comment template syntax
+* `csrf` - csrf_token template syntax
+* `cycle` - basic cycle template syntax
+* `debug` - debug template syntax wrapped in pre tags
+* `extends` - extends template syntax
+* `filter` - filter template syntax
 
 #### Commands
 Whilst there is currently no commands in the project I have created a loose roadmap of commands I would like to encorperate into this package.
