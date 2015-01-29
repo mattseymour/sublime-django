@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% firstof ${1:var1} ${2:var2} ${3:var3} "${4:fall back value}" %}
+]]></content>
+    <tabTrigger>fallback</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template first of</description>
+</snippet>
