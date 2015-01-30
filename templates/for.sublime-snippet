@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% for ${1:var1} in ${2:iterable} %}
+	${3:$SELECTION}
+{% endfor %}
+]]></content>
+    <tabTrigger>forloop</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template for loop</description>
+</snippet>
