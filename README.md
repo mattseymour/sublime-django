@@ -15,9 +15,12 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `debug` - debug template syntax wrapped in pre tags
 * `extends` - extends template syntax
 * `filter` - filter template syntax
+* `firstof` - firstof template syntax
+* `forloop` - forloop template syntax
 
 #### Commands
 Whilst there is currently no commands in the project I have created a loose roadmap of commands I would like to encorperate into this package.
 
 #### Aims
 Comprehensive set of django snippets and commands with the aim of making sublime an even more powerful django development tool.
+
