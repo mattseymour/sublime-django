@@ -1,0 +1,12 @@
+<snippet>
+   	<content><![CDATA[
+{% for ${1:var1} in ${2:iterable} %}
+    ${3:$SELECTION}
+{% empty %}
+    ${4:$SELECTION}
+{% endfor %}
+]]></content>
+    <tabTrigger>forempty</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template for empty loop</description>
+</snippet>
