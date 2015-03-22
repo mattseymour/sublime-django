@@ -9,6 +9,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 #### Templates
 * `autoescape` - auto escape html template syntax
 * `block` - block template syntax
+* `iblock` - inline block syntax
 * `comment` - comment template syntax
 * `csrf` - csrf_token template syntax
 * `cycle` - basic cycle template syntax
