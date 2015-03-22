@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% block ${1:blockname} %}${2:$SELECTION}{% endblock %}
+]]></content>
+    <tabTrigger>iblock</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template block inline</description>
+</snippet>
