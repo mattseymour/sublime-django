@@ -1,0 +1,10 @@
+<snippet>
+   	<content><![CDATA[
+{% elif ${1:$CONDITION} %}
+    ${2:$SELECTION}
+
+]]></content>
+    <tabTrigger>elif</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template elif part of if statement</description>
+</snippet>

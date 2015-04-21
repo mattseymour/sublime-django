@@ -1,0 +1,11 @@
+<snippet>
+   	<content><![CDATA[
+{% if ${1:$SELECTION} %}
+    ${2:$SELECTION}
+
+{% endif %}
+]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template if statement</description>
+</snippet>

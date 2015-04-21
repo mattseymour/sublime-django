@@ -1,0 +1,9 @@
+<snippet>
+   	<content><![CDATA[
+{% else %}
+    ${1:$CONDITION}
+]]></content>
+    <tabTrigger>else</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template else part of if statement</description>
+</snippet>

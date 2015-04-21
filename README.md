@@ -18,7 +18,9 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `filter` - filter template syntax
 * `firstof` - firstof template syntax
 * `forloop` - forloop template syntax
-
+* `if` - if template syntax
+* `elif` - elif partial syntax
+* `else` - else partial syntax
 * `{` - inline tags
 * `tag` - inline tags
 
