@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% ifchanged ${1:condition} %}
+	${2:$SELECTION}
+{% endifchanged %}
+]]></content>
+    <tabTrigger>changed</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template ifchanged loop</description>
+</snippet>

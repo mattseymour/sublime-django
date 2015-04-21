@@ -21,6 +21,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `if` - if template syntax
 * `elif` - elif partial syntax
 * `else` - else partial syntax
+* `changed` - ifchanged template syntax
 * `{` - inline tags
 * `tag` - inline tags
 
