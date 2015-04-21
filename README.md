@@ -19,6 +19,9 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `firstof` - firstof template syntax
 * `forloop` - forloop template syntax
 
+* `{` - inline tags
+* `tag` - inline tags
+
 #### Commands
 Whilst there is currently no commands in the project I have created a loose roadmap of commands I would like to encorperate into this package.
 
