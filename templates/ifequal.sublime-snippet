@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% ifequal ${1:condition} ${2:condition} %}
+    ${3:$SELECTION}
+{% endifequal %}
+]]></content>
+    <tabTrigger>equal</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template ifequal</description>
+</snippet>
