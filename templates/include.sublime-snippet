@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% include ${1:condition} %}
+]]></content>
+    <tabTrigger>include</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template include</description>
+</snippet>

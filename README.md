@@ -24,6 +24,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `changed` - ifchanged template syntax
 * `equal` - ifequal template syntax
 * `notequal` - ifnotequal template syntax
+* `include` - include template syntax
 * `{` - inline tags
 * `tag` - inline tags
 
