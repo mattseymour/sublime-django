@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% ifnotequal ${1:condition} ${2:condition} %}
+    ${3:$SELECTION}
+{% endifnotequal %}
+]]></content>
+    <tabTrigger>notequal</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template ifnotequal</description>
+</snippet>
