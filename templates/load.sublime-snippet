@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% load ${1:library} %}
+]]></content>
+    <tabTrigger>load</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template load template tag set</description>
+</snippet>
