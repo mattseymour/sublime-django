@@ -26,6 +26,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `notequal` - ifnotequal template syntax
 * `include` - include template syntax
 * `load` - load template syntax
+* `lorem` - lorem template syntax
 * `{` - inline tags
 * `tag` - inline tags
 

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% lorem ${1:numer_of_words_paragraphs} ${2:method_w_p_b} %}
+]]></content>
+    <tabTrigger>lorem</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template lorem template text</description>
+</snippet>
