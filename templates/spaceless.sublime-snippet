@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% spaceless %}
+    ${1:$SELECTION}
+{% endspaceless %}
+]]></content>
+    <tabTrigger>spaceless</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template spaceless</description>
+</snippet>

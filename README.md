@@ -33,6 +33,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `time` - alias to now template syntax
 * `blocktrans` - blocktrans template syntax
 * `regroup` - regroup template syntax
+* `spaceless` - spaceless template syntax
 
 
 #### Commands
