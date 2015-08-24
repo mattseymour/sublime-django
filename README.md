@@ -35,6 +35,8 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `regroup` - regroup template syntax
 * `spaceless` - spaceless template syntax
 * `ssi` - ssi template syntax
+* `var` - alias to `{` variable template syntax (`{{ var_name }}`)
+
 
 #### Commands
 Whilst there is currently no commands in the project I have created a loose roadmap of commands I would like to encorperate into this package.

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ ${1:var_name} }}
+]]></content>
+    <tabTrigger>var</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template variable</description>
+</snippet>
