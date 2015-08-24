@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% blocktrans %}
+    ${1:$SELECTION}
+{% endblocktrans %}
+]]></content>
+    <tabTrigger>blocktrans</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template blocktrans</description>
+</snippet>

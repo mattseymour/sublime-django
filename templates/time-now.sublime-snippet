@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% now "${1:jS F Y H:i}" %}
+]]></content>
+    <tabTrigger>time</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template now</description>
+</snippet>

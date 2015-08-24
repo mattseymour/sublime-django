@@ -29,6 +29,9 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `lorem` - lorem template syntax
 * `{` - inline tags
 * `tag` - inline tags
+* `now` - now template syntax
+* `time` - alias to now template syntax
+* `blocktrans` - blocktrans template syntax
 
 #### Commands
 Whilst there is currently no commands in the project I have created a loose roadmap of commands I would like to encorperate into this package.
