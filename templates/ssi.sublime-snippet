@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% ssi "${1:/path/to/ssi/file.html}" ${2:parsed} %}
+]]></content>
+    <tabTrigger>ssi</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template ssi</description>
+</snippet>
