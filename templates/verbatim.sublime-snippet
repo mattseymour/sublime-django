@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% verbatim ${1:block_name} %}
+    ${2:$SELECTION}
+{% endverbatim ${1:block_name} %}
+]]></content>
+    <tabTrigger>verbatim</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template verbatim</description>
+</snippet>
