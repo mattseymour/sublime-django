@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% url "${1:url_name}" ${2:}%}
+]]></content>
+    <tabTrigger>url</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template url</description>
+</snippet>
