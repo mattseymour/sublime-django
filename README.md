@@ -40,8 +40,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `url_as` - url as template syntax
 * `verbatim` - verbatim template syntax
 * `widthratio` - widthration template syntax
-
-
+* `with` - with template syntax
 
 
 #### Commands

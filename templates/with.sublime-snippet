@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+{% with ${1:attr}=${2:object} %}
+    ${3:$SELECTION}
+{% endwith %}
+]]></content>
+    <tabTrigger>with</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template with</description>
+</snippet>
