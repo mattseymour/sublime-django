@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% regroup ${1:object_list} by ${2:attribute} as ${3:grouped_list} %}
+]]></content>
+    <tabTrigger>regroup</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template regroup</description>
+</snippet>
