@@ -37,6 +37,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `ssi` - ssi template syntax
 * `var` - alias to `{` variable template syntax (`{{ var_name }}`)
 * `url` - url template syntax
+* `url_as` - url as template syntax
 
 
 
