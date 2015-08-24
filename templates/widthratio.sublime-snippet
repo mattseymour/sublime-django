@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{% widthration ${1:value} ${2:max_value} ${3:max_width} %}
+]]></content>
+    <tabTrigger>widthratio</tabTrigger>
+    <scope>text.html</scope>
+    <description>Django template widthratio</description>
+</snippet>
