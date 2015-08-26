@@ -1,5 +1,7 @@
 # sublime snippets for django projects
 
+This package can be found and downloaded on [package control][1]
+
 A set of useful sublime snippets for use with Django. If you have snippet which is useful with django submit a pull request or raise a github issue.
 
 ### Current snippets:
@@ -49,3 +51,4 @@ Whilst there is currently no commands in the project I have created a loose road
 #### Aims
 Comprehensive set of django snippets and commands with the aim of making sublime an even more powerful django development tool.
 
+[1]:https://packagecontrol.io/packages/Django
