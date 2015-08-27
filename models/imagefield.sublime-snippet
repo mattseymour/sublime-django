@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.ImageField(upload_to=${1:None}, max_length=${2:100}, height_field=${3:None}, width_field=${4:None}, ${5:attributes})
+]]>
+    </content>
+    <tabTrigger>mimage</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
