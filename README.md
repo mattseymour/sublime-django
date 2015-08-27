@@ -15,6 +15,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mduration` - DurationField
 * `memail` - EmailField
 * `mfile` - FileField
+* `mfilepath` - FilePathField
 * `model` - basic django model
 
 #### Templates
