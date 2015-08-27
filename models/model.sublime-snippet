@@ -5,7 +5,7 @@ class ${1:Model}(models.Model):
     """
     Description: ${2:Model Description}
     """
-    pass
+    ${3:$SELECTION}
 ]]>
 	</content>
     <tabTrigger>model</tabTrigger>
