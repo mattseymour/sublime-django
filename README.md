@@ -11,6 +11,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mcomma` - CommaSeparatedIntegerField
 * `mdate` - DateField
 * `mdatetime` - DateTimeField
+* `mdecimal` - DateTimeField
 * `model` - basic django model
 
 #### Templates
