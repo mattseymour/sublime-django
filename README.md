@@ -18,6 +18,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mfilepath` - FilePathField
 * `mfloat` - FloatField
 * `mimage` - ImageField
+* `mint` - IntField
 * `model` - basic django model
 
 #### Templates
