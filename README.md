@@ -13,6 +13,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mdatetime` - DateTimeField
 * `mdecimal` - DateTimeField
 * `mduration` - DurationField
+* `memail` - EmailField
 * `model` - basic django model
 
 #### Templates

@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.EmailField(max_length=${1:254}, ${2:attributes})
+]]>
+    </content>
+    <tabTrigger>memail</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
