@@ -31,6 +31,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `model` - basic django model
 * `mforeign` - ForeignKey
 * `mmany` - ManyToManyField
+* `mone` - OneToOneField
 
 #### Templates
 * `autoescape` - auto escape html template syntax
