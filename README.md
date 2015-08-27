@@ -19,6 +19,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mfloat` - FloatField
 * `mimage` - ImageField
 * `mint` - IntField
+* `mip` - GenericIPAddressField
 * `model` - basic django model
 
 #### Templates
