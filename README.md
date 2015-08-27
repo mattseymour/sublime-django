@@ -24,6 +24,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mintpos` - PositiveIntegerField
 * `mintsmallpos` - PositiveSmallIntegerField
 * `mslug` - SlugField
+* `mintsmall` - SmallIntegerField
 * `model` - basic django model
 
 #### Templates
