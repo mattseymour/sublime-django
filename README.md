@@ -10,6 +10,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mchar` - CharField
 * `mcomma` - CommaSeparatedIntegerField
 * `mdate` - DateField
+* `mdatetime` - DateTimeField
 * `model` - basic django model
 
 #### Templates
