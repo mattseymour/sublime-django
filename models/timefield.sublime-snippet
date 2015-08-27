@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.TimeField(auto_now=${1:False}, auto_now_add=${2:False}, ${3:attributes})
+]]>
+    </content>
+    <tabTrigger>mtime</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -26,6 +26,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mslug` - SlugField
 * `mintsmall` - SmallIntegerField
 * `mtext` - TextField
+* `mtime` - TimeField
 * `model` - basic django model
 
 #### Templates
