@@ -6,6 +6,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 #### Models
 * `mauto` - AutoField
 * `mbigint` - BigIntegerField
+* `mbinary` - BinaryField
 * `model` - basic django model
 
 #### Templates
