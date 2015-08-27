@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.AutoField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mauto</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

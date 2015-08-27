@@ -4,6 +4,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 
 ### Current snippets:
 #### Models
+* `mauto` - AutoField
 * `model` - basic django model
 
 #### Templates
