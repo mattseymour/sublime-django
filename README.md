@@ -22,6 +22,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mip` - GenericIPAddressField
 * `mnullbool` - NullBooleanField
 * `mintpos` - PositiveIntegerField
+* `mintsmallpos` - PositiveSmallIntegerField
 * `model` - basic django model
 
 #### Templates
