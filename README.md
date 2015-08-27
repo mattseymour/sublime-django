@@ -29,6 +29,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mtime` - TimeField
 * `muuid` - UUIDField
 * `model` - basic django model
+* `mforeign` - ForeignKey
 
 #### Templates
 * `autoescape` - auto escape html template syntax
