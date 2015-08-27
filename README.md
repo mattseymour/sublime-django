@@ -8,6 +8,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mbigint` - BigIntegerField
 * `mbinary` - BinaryField
 * `mchar` - CharField
+* `mcomma` - CommaSeparatedIntegerField
 * `model` - basic django model
 
 #### Templates
