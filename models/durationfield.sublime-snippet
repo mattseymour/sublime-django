@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.DurationField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mduration</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

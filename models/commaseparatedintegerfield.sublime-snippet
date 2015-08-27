@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.CommaSeparatedIntegerField(max_length=${1:field_length}, ${2:attributes})
+]]>
+    </content>
+    <tabTrigger>mcomma</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

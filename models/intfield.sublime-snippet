@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.IntField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mint</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

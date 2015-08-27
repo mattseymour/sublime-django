@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.PositiveIntegerField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mintpos</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

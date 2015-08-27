@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.FloatField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mfloat</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

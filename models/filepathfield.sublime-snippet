@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.FilePathField(path=${1:None}, match=${2:None}, recursive=${3:False}, max_length=${4:100}, ${5:attributes})
+]]>
+    </content>
+    <tabTrigger>mfilepath</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

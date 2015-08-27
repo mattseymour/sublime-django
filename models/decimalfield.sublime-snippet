@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.DecimalField(max_digits=${1:None}, decimal_places=${2:None}, ${3:attributes})
+]]>
+    </content>
+    <tabTrigger>mdecimal</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

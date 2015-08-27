@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.PositiveSmallIntegerField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mintsmallpos</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

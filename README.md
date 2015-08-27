@@ -6,7 +6,34 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 
 ### Current snippets:
 #### Models
+* `mauto` - AutoField
+* `mbigint` - BigIntegerField
+* `mbinary` - BinaryField
+* `mchar` - CharField
+* `mcomma` - CommaSeparatedIntegerField
+* `mdate` - DateField
+* `mdatetime` - DateTimeField
+* `mdecimal` - DateTimeField
+* `mduration` - DurationField
+* `memail` - EmailField
+* `mfile` - FileField
+* `mfilepath` - FilePathField
+* `mfloat` - FloatField
+* `mimage` - ImageField
+* `mint` - IntField
+* `mip` - GenericIPAddressField
+* `mnullbool` - NullBooleanField
+* `mintpos` - PositiveIntegerField
+* `mintsmallpos` - PositiveSmallIntegerField
+* `mslug` - SlugField
+* `mintsmall` - SmallIntegerField
+* `mtext` - TextField
+* `mtime` - TimeField
+* `muuid` - UUIDField
 * `model` - basic django model
+* `mforeign` - ForeignKey
+* `mmany` - ManyToManyField
+* `mone` - OneToOneField
 
 #### Templates
 * `autoescape` - auto escape html template syntax

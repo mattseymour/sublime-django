@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.ManyToManyField('${1:Model}', ${2:attributes})
+]]>
+    </content>
+    <tabTrigger>mmany</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
