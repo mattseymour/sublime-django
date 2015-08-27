@@ -20,6 +20,7 @@ A set of useful sublime snippets for use with Django. If you have snippet which 
 * `mimage` - ImageField
 * `mint` - IntField
 * `mip` - GenericIPAddressField
+* `mnullbool` - NullBooleanField
 * `model` - basic django model
 
 #### Templates
