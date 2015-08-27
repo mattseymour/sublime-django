@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.FileField(upload_to=${1:None}, max_length=${2:100}, ${3:attributes})
+]]>
+    </content>
+    <tabTrigger>mfile</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
