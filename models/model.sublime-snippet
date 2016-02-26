@@ -6,8 +6,12 @@ class ${1:Model}(models.Model):
     Description: ${2:Model Description}
     """
     ${3:$SELECTION}
+
+    class Meta:
+        verbose_name = 'Model Verbose Name'
+
 ]]>
-	</content>
+    </content>
     <tabTrigger>model</tabTrigger>
     <scope>source.python</scope>
 </snippet>
