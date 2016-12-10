@@ -1,9 +1,9 @@
 <snippet>
     <content>
     <![CDATA[
-models.IntegerField(${1:attributes})
+models.BigAutoField(${1:attributes})
 ]]>
     </content>
-    <tabTrigger>mint</tabTrigger>
+    <tabTrigger>mbigauto</tabTrigger>
     <scope>source.python</scope>
 </snippet>

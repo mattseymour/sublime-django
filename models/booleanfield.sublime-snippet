@@ -1,9 +1,9 @@
 <snippet>
     <content>
     <![CDATA[
-models.IntegerField(${1:attributes})
+models.BooleanField(default=${1:bool}, ${2:attributes})
 ]]>
     </content>
-    <tabTrigger>mint</tabTrigger>
+    <tabTrigger>mbinary</tabTrigger>
     <scope>source.python</scope>
 </snippet>

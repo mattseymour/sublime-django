@@ -1,9 +1,9 @@
 <snippet>
     <content>
     <![CDATA[
-models.IntegerField(${1:attributes})
+models.URLField(max_length=${1:200}, ${2:attributes})
 ]]>
     </content>
-    <tabTrigger>mint</tabTrigger>
+    <tabTrigger>murl</tabTrigger>
     <scope>source.python</scope>
 </snippet>
