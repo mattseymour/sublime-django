@@ -6,6 +6,9 @@ class ${1:Model}(models.Model):
     Description: ${2:Model Description}
     """
     ${3:$SELECTION}
+
+    class Meta:
+        pass
 ]]>
 	</content>
     <tabTrigger>model</tabTrigger>
