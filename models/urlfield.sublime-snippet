@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.URLField(max_length=${1:200}, ${2:attributes})
+]]>
+    </content>
+    <tabTrigger>murl</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
