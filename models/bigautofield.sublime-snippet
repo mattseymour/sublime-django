@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.BigAutoField(${1:attributes})
+]]>
+    </content>
+    <tabTrigger>mbigauto</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
