@@ -1,0 +1,9 @@
+<snippet>
+    <content>
+    <![CDATA[
+models.BooleanField(default=${1:value}, ${2:attributes})
+]]>
+    </content>
+    <tabTrigger>mbinary</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
