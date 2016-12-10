@@ -1,0 +1,84 @@
+
+Thankyou for installing the Django sublime package.
+
+This package gives you templates and completions for the django project [http://djangoproject.org].
+
+Contributing:
+---------------
+
+If you would like to contribute to the sublime django package you can find the project at:
+
+https://github.com/mattseymour/sublime-django
+
+Features:
+---------------
+We currently support template completions for:
+
+Models
+* `mauto` - AutoField
+* `mbigauto` - BigAutoField
+* `mbigint` - BigIntegerField
+* `mbinary` - BinaryField
+* `mbool` - BooleanField
+* `mchar` - CharField
+* `mcomma` - CommaSeparatedIntegerField
+* `mdate` - DateField
+* `mdatetime` - DateTimeField
+* `mdecimal` - DateTimeField
+* `mduration` - DurationField
+* `memail` - EmailField
+* `mfile` - FileField
+* `mfilepath` - FilePathField
+* `mfloat` - FloatField
+* `mimage` - ImageField
+* `mint` - IntField
+* `mip` - GenericIPAddressField
+* `mnullbool` - NullBooleanField
+* `mintpos` - PositiveIntegerField
+* `mintsmallpos` - PositiveSmallIntegerField
+* `mslug` - SlugField
+* `mintsmall` - SmallIntegerField
+* `mtext` - TextField
+* `mtime` - TimeField
+* `murl` - URLField
+* `muuid` - UUIDField
+* `model` - basic django model
+* `mforeign` - ForeignKey
+* `mmany` - ManyToManyField
+* `mone` - OneToOneField
+
+Templates
+* `autoescape` - auto escape html template syntax
+* `block` - block template syntax
+* `iblock` - inline block syntax
+* `comment` - comment template syntax
+* `csrf` - csrf_token template syntax
+* `cycle` - basic cycle template syntax
+* `debug` - debug template syntax wrapped in pre tags
+* `extends` - extends template syntax
+* `filter` - filter template syntax
+* `firstof` - firstof template syntax
+* `forloop` - forloop template syntax
+* `if` - if template syntax
+* `elif` - elif partial syntax
+* `else` - else partial syntax
+* `changed` - ifchanged template syntax
+* `equal` - ifequal template syntax
+* `notequal` - ifnotequal template syntax
+* `include` - include template syntax
+* `load` - load template syntax
+* `lorem` - lorem template syntax
+* `{` - inline tags
+* `tag` - inline tags
+* `now` - now template syntax
+* `time` - alias to now template syntax
+* `blocktrans` - blocktrans template syntax
+* `regroup` - regroup template syntax
+* `spaceless` - spaceless template syntax
+* `ssi` - ssi template syntax
+* `var` - alias to `{` variable template syntax (`{{ var_name }}`)
+* `url` - url template syntax
+* `url_as` - url as template syntax
+* `verbatim` - verbatim template syntax
+* `widthratio` - widthration template syntax
+* `with` - with template syntax
