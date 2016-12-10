@@ -4,6 +4,6 @@
 models.BooleanField(default=${1:bool}, ${2:attributes})
 ]]>
     </content>
-    <tabTrigger>mbinary</tabTrigger>
+    <tabTrigger>mbool</tabTrigger>
     <scope>source.python</scope>
 </snippet>
