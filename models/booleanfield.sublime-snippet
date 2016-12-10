@@ -1,7 +1,7 @@
 <snippet>
     <content>
     <![CDATA[
-models.BooleanField(default=${1:value}, ${2:attributes})
+models.BooleanField(default=${1:true}, ${2:attributes})
 ]]>
     </content>
     <tabTrigger>mbinary</tabTrigger>
