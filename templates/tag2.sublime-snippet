@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[{{ ${1:$SELECTION} }}]]></content>
+    <content><![CDATA[{{ ${1:$SELECTION} }]]></content>
     <tabTrigger>{</tabTrigger>
     <scope>text.html</scope>
     <description>Django template tag</description>
